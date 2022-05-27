@@ -7,11 +7,10 @@
 1. Download and save the code in your project directory.
 2. Import it and use it:
 
-
-    from path/to/the/module import Converter
-
-    md = Converter(your_markdown_content)
-    html = md.convertHTML()
+        from path/to/the/module import Converter
+   
+        md = Converter(your_markdown_content)
+        html = md.convertHTML()
 
 ## Motivation
 
